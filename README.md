@@ -1,2 +1,3 @@
-# Canadian-Health-Expenditure-Analysis
-Analysis of Canadian healthcare expenditure data to evaluate provincial spending patterns, per capita trends, and year-over-year growth. Cleaned and structured datasets in Excel and developed an interactive Tableau dashboard to enable comparative analysis and data-driven insights.
+# [Canadian Health Expenditure Analysis](https://your-tableau-public-link.com)
+
+Interactive Tableau dashboard analyzing provincial healthcare expenditure trends, per capita spending, and year-over-year growth. Cleaned and structured datasets in Excel and developed an interactive Tableau dashboard to enable comparative analysis and data-driven insights.
